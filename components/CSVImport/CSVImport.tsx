@@ -25,8 +25,6 @@ const CSVImport = () => {
     await format(acceptedFiles[0]);
 
     // setData(formatted_data);
-
-    // console.log("Formatted Data:", formatted_data);
   }, []);
   const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop });
   return (
