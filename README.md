@@ -1,3 +1,7 @@
+- MFMからダウンロードしたデータをドラッグアンドドロップすることで可視化したり、データのフォーマットをしてくれるツール。
+- 検出年はハードコーディングのため、2024年度のデータのみとりあえず表示可能。力尽きた。。。
+<image src="./ss.png"/>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
